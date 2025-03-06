@@ -19,7 +19,7 @@ Hi, I'm Heidi!
 📝 Focus lies on Desktop/Mobile applications
  for healthcare and building electronic circuits for fun
 🔭 Working on an animatronic (King Boo)
- (Paper Mache and electronics)
+ (Paper Mache, electronic circuit and code)
 🌱 Currently doing the Python career Track on Datacamp
 🚩 Interested in Full Stack Machine Learning Application 
 development (On my bucketlist)
