@@ -15,7 +15,7 @@ Hi, I'm Heidi Dziedzic!
 
 <pre>
 💻 I am a self taught Full Stack Developer 
-📚 I have done lots of courses in computer science and also did Math course.
+📚 I am constantly doing courses in computer science and Math.
 📝 I have a strong interest in creating applications for mental healthcare|elektronics
 🔭 Working on an animatronic (King Boo) and some Python Desktop apps
 🌱 Currently learning the Python career Track on Datacamp
