@@ -26,14 +26,18 @@ development (On my bucketlist)
 	</pre>
 <hr>
 
-### Favorite Books: 
+<hr>
+
+### Favorite Coding Books:
+<pre>
 📚 The Nature of Code by Daniel Shiffman 📚 
 📚 The pragmatic Programmer by Andy Hunt en Dave Thomas
 <hr>
+</pre>
 
-### I admire:
+
+### My coding Role models:
 <pre>
-
 Daniel Shiffman <a href="[https://thecodingtrain.com/]"><img alt="YouTube Channel"/></a>
 Margareth Posch <a href="[[https://www.youtube.com/@MargretPosch)]"><img alt="YouTube Channel"/></a>
 </pre>
