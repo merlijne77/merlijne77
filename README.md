@@ -21,7 +21,7 @@ Hi, I'm Heidi Dziedzic!
 🌱 Currently learning the Python career Track on Datacamp
 🌟 Main languages: Python, Java, Kotlin
 🚩 Interested in Full Stack Machine Learning Application development (On my bucketlist)
-Experience: Builded (Android and Desktop) applications as volunteer for healthcare organisations
+Experience: Builded (Android and Desktop) applications as a volunteer for healthcare organisations
 </pre>
 <hr>
 
