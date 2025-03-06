@@ -82,7 +82,7 @@ Arduino|MicroPython|Processing|
 ### Tkinter UI example
 
 Basis weatherapp for cities in the Netherlands 
-Contains a dynamic pictures depending on the weather and time of the day.
+Contains a dynamic picture depending on the weather and time of the day.
 
 
 
