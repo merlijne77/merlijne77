@@ -7,7 +7,7 @@ Hi, I'm Heidi Dziedzic!
 <br/>
 <p align="center">
 	<a href="https://github.com/Merlijne77">
-		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Enthusiastic+hobby+dev;Volunteer;Always+learning" alt="Typing SVG" /></a>
+		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Enthusiastic+hobby+dev;Volunteer;Always+learning+new+stuff" alt="Typing SVG" /></a>
 	</a>
 </p>
 
