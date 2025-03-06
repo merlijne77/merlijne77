@@ -14,12 +14,13 @@ Hi, I'm Heidi!
 <hr>
 
 <pre>
-💻 I am a self taught  Developer 
-📚 I am constantly learning.
-📝 I have a strong interest in creating applications for mental healthcare|elektronics
+💻 I am a self taught Developer 
+📚 Constantly learning
+📝 Focus lies on Desktop/Mobile applications for mental healthcare 
+🔭 I have a strong interest for coding 
+   and electronics dev 
 🔭 Working on an animatronic (King Boo) and some Python Desktop apps
 🌱 Currently doing the Python career Track on Datacamp
-🌟 Main languages: Python, Java, Kotlin
 🚩 Interested in Full Stack Machine Learning Application development (On my bucketlist)
 </pre>
 <hr>
