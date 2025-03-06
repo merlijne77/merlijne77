@@ -22,7 +22,7 @@ Hi, I'm Heidi!
 🔭 Working on an animatronic (King Boo) and some Python Desktop apps
 🌱 Currently doing the Python career Track on Datacamp
 🚩 Interested in Full Stack Machine Learning Application development (On my bucketlist)
-🚩 Favorite Book: The Nature of Code by Daniel Shiffman 📚 
+📚 Favorite Book: The Nature of Code by Daniel Shiffman 📚 
 </pre>
 <hr>
 
