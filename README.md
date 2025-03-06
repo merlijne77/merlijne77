@@ -23,7 +23,19 @@ Hi, I'm Heidi!
 🌱 Currently doing the Python career Track on Datacamp
 🚩 Interested in Full Stack Machine Learning Application 
 development (On my bucketlist)
-📚 Favorite Book: The Nature of Code by Daniel Shiffman 📚 
+	</pre>
+<hr>
+
+### Favorite Books: 
+📚 The Nature of Code by Daniel Shiffman 📚 
+📚 The pragmatic Programmer by Andy Hunt en Dave Thomas
+<hr>
+
+### I admire:
+<pre>
+
+Daniel Shiffman <a href="[https://thecodingtrain.com/]"><img alt="YouTube Channel"/></a>
+Margareth Posch <a href="[[https://www.youtube.com/@MargretPosch)]"><img alt="YouTube Channel"/></a>
 </pre>
 <hr>
 
