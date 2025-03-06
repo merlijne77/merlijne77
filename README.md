@@ -16,10 +16,9 @@ Hi, I'm Heidi!
 <pre>
 💻 I am a self taught Developer 
 📚 Constantly learning
-📝 Focus lies on Desktop/Mobile applications for mental healthcare 
-🔭 I have a strong interest for coding 
-   and electronics dev 
-🔭 Working on an animatronic (King Boo) and some Python Desktop apps
+📝 Focus lies on Desktop/Mobile applications
+ for mental healthcare and building electronic circuits for fun
+🔭 Working on an animatronic (King Boo) and Desktop applications
 🌱 Currently doing the Python career Track on Datacamp
 🚩 Interested in Full Stack Machine Learning Application development (On my bucketlist)
 📚 Favorite Book: The Nature of Code by Daniel Shiffman 📚 
