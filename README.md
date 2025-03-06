@@ -28,7 +28,7 @@ Experience: Builded (Android and Desktop) applications as a volunteer for health
 ## 🤝 Connect with me
 <p align="center">
 	<a href="mailto:coding.aspie@gmail.com"><img  alt="Gmail"/></a>
-	<a href="https://www.youtube.com/@zielsurfen)"><img alt="YouTube Channel"/></a>
+	<a href="https://www.youtube.com/@zielsurfen"><img alt="YouTube Channel"/></a>
 </p>
 
 
