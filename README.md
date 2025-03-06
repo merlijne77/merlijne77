@@ -39,8 +39,8 @@ development (On my bucketlist)
 
 ### My coding Role models:
 <pre>
-Daniel Shiffman <a href="[https://thecodingtrain.com/]"><img alt="YouTube Channel"/></a>
-Margareth Posch <a href="[https://www.youtube.com/@MargretPosch]"><img alt="YouTube Channel"/></a>
+Daniel Shiffman <a href="https://thecodingtrain.com/"><img alt="YouTube Channel"/></a>
+Margareth Posch <a href="https://www.youtube.com/@MargretPosch"><img alt="YouTube Channel"/></a>
 </pre>
 <hr>
 
