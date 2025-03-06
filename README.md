@@ -45,3 +45,18 @@ Arduino|MicroPython|Processing|
   </tr>
 </table>
 
+### 🧰 Past bigger Projects
+🚩 Worked as a team member on a Native Android app for people with autism to help clearify tasks
+🚩 Published a native android app for a patient group to help alarming their environment when having a attack
+🚩 Book management and selling system for a healthcare organisation. In javaFx
+🚩 Native Android app to help people with mental health issues help themself.
+
+
+
+### Tkinter UI example
+
+Basis weatherapp for cities in the Netherlands 
+Containing dynamic pictures depending on the weather and time of the day.
+![Screenshot From 2025-03-06 12-33-33](https://github.com/user-attachments/assets/ff14a376-8796-4a9b-8655-1c2e87035dfd)
+
+
