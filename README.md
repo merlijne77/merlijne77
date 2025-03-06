@@ -18,7 +18,7 @@ Hi, I'm Heidi!
 📚 I am constantly learning.
 📝 I have a strong interest in creating applications for mental healthcare|elektronics
 🔭 Working on an animatronic (King Boo) and some Python Desktop apps
-🌱 Currently learning the Python career Track on Datacamp
+🌱 Currently doing the Python career Track on Datacamp
 🌟 Main languages: Python, Java, Kotlin
 🚩 Interested in Full Stack Machine Learning Application development (On my bucketlist)
 </pre>
