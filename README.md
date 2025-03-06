@@ -44,13 +44,16 @@ Arduino|MicroPython|Processing|
   </td>
   </tr>
 </table>
+<hr>
 
+<pre>
 ### 🧰 Past bigger Projects
 🚩 Worked as a team member on a Native Android app for people with autism to help clearify tasks
 🚩 Published a native android app for a patient group to help alarming their environment when having a attack
 🚩 Book management and selling system for a healthcare organisation. In javaFx
 🚩 Native Android app to help people with mental health issues help themself.
-
+</pre>
+<hr>
 
 
 ### Tkinter UI example
