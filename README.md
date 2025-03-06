@@ -17,7 +17,7 @@ Hi, I'm Heidi!
 💻 I am a self taught Developer 
 📚 Constantly learning
 📝 Focus lies on Desktop/Mobile applications
- for mental healthcare and building electronic circuits for fun
+ for healthcare and building electronic circuits for fun
 🔭 Working on an animatronic (King Boo) and Desktop applications
 🌱 Currently doing the Python career Track on Datacamp
 🚩 Interested in Full Stack Machine Learning Application development (On my bucketlist)
