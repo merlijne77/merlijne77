@@ -18,9 +18,11 @@ Hi, I'm Heidi!
 📚 Constantly learning
 📝 Focus lies on Desktop/Mobile applications
  for healthcare and building electronic circuits for fun
-🔭 Working on an animatronic (King Boo) and Desktop applications
+🔭 Working on an animatronic (King Boo)
+ (Paper Mache and electronics)
 🌱 Currently doing the Python career Track on Datacamp
-🚩 Interested in Full Stack Machine Learning Application development (On my bucketlist)
+🚩 Interested in Full Stack Machine Learning Application 
+development (On my bucketlist)
 📚 Favorite Book: The Nature of Code by Daniel Shiffman 📚 
 </pre>
 <hr>
@@ -48,10 +50,14 @@ Arduino|MicroPython|Processing|
 
 <pre>
 ### 🧰 Past bigger Projects
-🚩 Worked as a team member on a Native Android app for people with autism to help clearify tasks
-🚩 Published a native android app for a patient group to help alarming their environment when having a attack
-🚩 Book management and selling system for a healthcare organisation. In javaFx
-🚩 Native Android app to help people with mental health issues help themself.
+🚩 Worked as a team member on a Native Android app
+ for people with autism to help clearify tasks
+🚩 Published a native android app for a group
+ of patiens to help alarming their environment when having a attack
+🚩 Book management and selling system for a healthcare organisation. 
+	In javaFx
+🚩 Native Android app to help people with mental 
+	health issues help themself.
 </pre>
 <hr>
 
