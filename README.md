@@ -27,7 +27,7 @@ development (On my bucketlist)
 
 <hr>
 
-### Favorite Coding Books:
+### Books:
 <pre>
 📚 The Nature of Code by Daniel Shiffman 📚 
 📚 The pragmatic Programmer by Andy Hunt en Dave Thomas
@@ -36,7 +36,7 @@ development (On my bucketlist)
 </pre>
 
 
-### My coding Role models:
+### Role models:
 <pre>
 Daniel Shiffman <a href="https://thecodingtrain.com/"><img alt="YouTube Channel"/></a>
 Margareth Posch <a href="https://www.youtube.com/@MargretPosch"><img alt="YouTube Channel"/></a>
@@ -65,11 +65,11 @@ Arduino|MicroPython|Processing|
 <hr>
 
 <pre>
-### 🧰 Past larger Projects
+### Past Projects
 🚩 Worked as a team member on a Native Android app
  for people with autism to help clearify tasks
 🚩 Published a native android app for a group
- of patiens to help alarming their environment when having a attack 
+ of patiens to help alarming their environment when having an fysical attack 
 🚩 Book management and selling system for a healthcare organisation. 
 	In javaFx
 🚩 Native Android app to help people with mental 
