@@ -15,7 +15,6 @@ Hi, I'm Heidi!
 
 <pre>
 💻 I am a self taught Developer 
-📚 Constantly learning
 📝 Focus lies on Desktop/Mobile applications
   and building electronic circuits for fun
 🔭 Currently Working on an animatronic (King Boo)
