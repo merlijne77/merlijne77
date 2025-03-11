@@ -14,12 +14,12 @@ Hi, I'm Heidi!
 <hr>
 
 <pre>
-💻 I am a self taught Developer 
+💻 I am a self taught Software Developer 
 📝 Focus lies on Desktop/Mobile applications
   and building electronic circuits for fun
 🔭 Currently Working on an animatronic (King Boo)
- (Paper Mache, electronic circuit and code)
-🌱 Currently doing the Python career Track on Datacamp
+  and a lookalike contribution chart with a fun twist.
+🌱 I am busy with the Python career Track on Datacamp <3
 🚩 Interested in Full Stack Machine Learning Application 
 development (On my bucketlist)
 	</pre>
@@ -35,15 +35,14 @@ development (On my bucketlist)
 <hr>
 </pre>
 
-
-### Role models:
+### Inspiring coders:
 <pre>
 Daniel Shiffman <a href="https://thecodingtrain.com/"><img alt="YouTube Channel"/></a>
 Margareth Posch <a href="https://www.youtube.com/@MargretPosch"><img alt="YouTube Channel"/></a>
 </pre>
 <hr>
 
-## 🤝 Connect with me
+## 🤝 Connect with me (not to often :P)
 <p align="center">
 	<a href="mailto:coding.aspie@gmail.com"><img  alt="Gmail"/></a>
 	<a href="https://www.youtube.com/@zielsurfen"><img alt="YouTube Channel"/></a>
@@ -67,13 +66,13 @@ Arduino|MicroPython|Processing|
 <pre>
 ### Past Projects
 🚩 Worked as a team member on a Native Android app
- for people with autism to help clearify tasks
+ for people with autism to help clearify tasks (ICT ACADEMIE)
 🚩 Published a native android app for a group
  of patiens to help alarming their environment when having an fysical attack 
 🚩 Book management and selling system for a healthcare organisation. 
 	In javaFx
-🚩 Native Android app to help people with mental 
-	health issues help themself.
+🚩 Build a Native Android app to help people with mental 
+	health issues help themself 
 </pre>
 <hr>
 
@@ -82,8 +81,6 @@ Arduino|MicroPython|Processing|
 
 Basis weatherapp for cities in the Netherlands 
 Contains a dynamic picture depending on the weather and time of the day.
-
-
 
 ![Screenshot From 2025-03-06 12-33-33](https://github.com/user-attachments/assets/ff14a376-8796-4a9b-8655-1c2e87035dfd)
 
