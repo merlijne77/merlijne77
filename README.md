@@ -17,8 +17,7 @@ Hi, I'm Heidi!
 💻 I am a self taught Software Developer 
 📝 Focus lies on Desktop/Mobile applications
   and building electronic circuits for fun
-🔭 Currently Working on an animatronic (King Boo)
-  and a lookalike contribution chart with a fun twist.
+🔭 Currently Working on flutter Android application to publish in Google Playstore in 2025
 🌱 I am busy with the Python career Track on Datacamp <3
 🚩 Interested in Full Stack Machine Learning Application 
 development (On my bucketlist)
@@ -55,7 +54,7 @@ Java|Python|Kotlin|Dart
 
 ### 🧰 Frameworks and Libraries
 
-Arduino|MicroPython|Processing|
+Flutter|MicroPython|Processing|Arduino
 
 
   </td>
