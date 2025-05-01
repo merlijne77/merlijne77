@@ -13,6 +13,8 @@ Hi, I'm Heidi!
 
 <hr>
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=merlijne77&repo=github-visitors-badge&countColor=%237B1E7A)
+
 <pre>
 💻 I am a self taught Software Developer 
 📝 Focus lies on Desktop/Mobile applications
