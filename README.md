@@ -41,12 +41,11 @@ Margareth Posch <a href="https://www.youtube.com/@MargretPosch"><img alt="YouTub
 </pre>
 <hr>
 
-## 🤝 Connect with me (not to often :P)
-<p align="center">
-	<a href="mailto:coding.aspie@gmail.com"><img  alt="Gmail"/></a>
-	<a href="https://www.youtube.com/@zielsurfen"><img alt="YouTube Channel"/></a>
-</p>
 
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<a href="https://www.youtube.com/@zielsurfen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube channel" height="30" width="40" /></a>
+<a href="mailto:coding.aspie@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Gmail-Light.svg" alt="Email" height="30" width="40" /></a>
+    
 
 ### 👨‍💻 Programming Languages
 
