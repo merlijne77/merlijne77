@@ -1,17 +1,4 @@
-<h1 align="center">
-Hi, I'm Heidi!
-	<a href="https://github.com/merlijne77" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
-<br/>
-<p align="center">
-	<a href="https://github.com/Merlijne77">
-		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Enthusiastic+hobby+dev;" alt="Typing SVG" /></a>
-	</a>
-</p>
-
-<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=A70808&width=490&lines=Hi+I+am+Heidi+;Enthusiastic+hobby+dev" alt="Typing SVG" /></a>
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=merlijne77&repo=github-visitors-badge&countColor=%237B1E7A)
 
@@ -84,8 +71,5 @@ Contains a dynamic picture depending on the weather and time of the day.
 
 ![Screenshot From 2025-03-06 12-33-33](https://github.com/user-attachments/assets/ff14a376-8796-4a9b-8655-1c2e87035dfd)
 
-### My coding coaches:
 
-
-![Screenshot From 2025-03-06 15-32-05](https://github.com/user-attachments/assets/4961e40f-4194-47d7-94eb-4a2678379746)
 
