@@ -73,6 +73,6 @@ Contains a dynamic picture depending on the weather and time of the day.
 
 ### Working on a Github contribution chart text displayer in Python (may 2025):
 Just to show funny image in, for example youre readme's.
+![chart](https://github.com/user-attachments/assets/3a500827-740d-4635-9b3c-210ffd41168b)
 
-![chart](https://github.com/user-attachments/assets/a4b718d5-c5a5-45a9-9b59-ad6874af8ea5)
 
