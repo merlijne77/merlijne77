@@ -72,4 +72,5 @@ Contains a dynamic picture depending on the weather and time of the day.
 ![Screenshot From 2025-03-06 12-33-33](https://github.com/user-attachments/assets/ff14a376-8796-4a9b-8655-1c2e87035dfd)
 
 ### Working on a contribution chart text generator in Python (may 2025):
-![chart](https://github.com/user-attachments/assets/6f28a11a-925e-4f71-8835-4cdcfd8f3524)
+
+![chart](https://github.com/user-attachments/assets/c8909ea0-0415-4bca-9674-9978f6b48d85)
