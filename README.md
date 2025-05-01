@@ -36,8 +36,8 @@ development (On my bucketlist)
 
 ### Inspiring coders:
 <pre>
-Daniel Shiffman <a href="https://thecodingtrain.com/"><img alt="YouTube Channel"/></a>
-Margareth Posch <a href="https://www.youtube.com/@MargretPosch"><img alt="YouTube Channel"/></a>
+Daniel Shiffman <a href="https://thecodingtrain.com/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube channel" height="30" width="40" /></a>
+Margareth Posch <a href="https://www.youtube.com/@MargretPosch"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube channel" height="30" width="40" /></a>
 </pre>
 <hr>
 
