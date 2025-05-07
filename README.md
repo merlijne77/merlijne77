@@ -71,7 +71,7 @@ Contains a dynamic picture depending on the weather and time of the day.
 ![Screenshot From 2025-03-06 12-33-33](https://github.com/user-attachments/assets/ff14a376-8796-4a9b-8655-1c2e87035dfd)
 
 ### 🔭Working on the release of OVERLOAD Android application to manage 🔭
-### mental health/sensory overload. Release month ---> Juni 2025🔭
+### mental health/sensory overload. Release month ---> June 2025🔭
 
 ### Working on a Github contribution chart text displayer in Python (may 2025):
 Just to show funny image in, for example youre readme's.
