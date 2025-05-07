@@ -6,7 +6,6 @@
 💻 I am a self taught Software Developer 
 📝 Focus lies on Desktop/Mobile applications
   and building electronic circuits for fun
-🔭 Currently Working on flutter Android application to publish in Google Playstore in 2025
 🌱 I am busy with the Python career Track on Datacamp <3
 🚩 Interested in Full Stack Machine Learning Application 
 development (On my bucketlist)
@@ -70,6 +69,9 @@ Basis weatherapp for cities in the Netherlands
 Contains a dynamic picture depending on the weather and time of the day.
 
 ![Screenshot From 2025-03-06 12-33-33](https://github.com/user-attachments/assets/ff14a376-8796-4a9b-8655-1c2e87035dfd)
+
+### 🔭Working on the release of OVERLOAD Android application to manage 🔭
+### mental health/sensory overload. Release month ---> Juni 2025🔭
 
 ### Working on a Github contribution chart text displayer in Python (may 2025):
 Just to show funny image in, for example youre readme's.
