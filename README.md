@@ -4,9 +4,8 @@
 
 <pre>
 💻 I am a self taught Software Developer 
-📝 Focus lies on Desktop/Mobile applications
+📝 Main Focus is on Desktop/Mobile applications
   and building electronic circuits for fun
-🌱 I am busy with the Python career Track on Datacamp <3
 🚩 Interested in Full Stack Machine Learning Application 
 development (On my bucketlist)
 	</pre>
@@ -50,13 +49,13 @@ Flutter|MicroPython|Processing|Arduino
 <hr>
 
 <pre>
-### Past Projects
+### Past Projects as a volunteer
 🚩 Worked as a team member on a Native Android app
- for people with autism to help clearify tasks (ICT ACADEMIE)
-🚩 Published a native android app for a group
+ for people with autism to help clearify tasks (ICT ACADEMIE Pameijer) 2021 
+🚩 Published a free native android app for a group
  of patiens to help alarming their environment when having an fysical attack 
 🚩 Book management and selling system for a healthcare organisation. 
-	In javaFx
+	In javaFx 
 🚩 Build a Native Android app to help people with mental 
 	health issues help themself 
 </pre>
@@ -70,10 +69,7 @@ Contains a dynamic picture depending on the weather and time of the day.
 
 ![Screenshot From 2025-03-06 12-33-33](https://github.com/user-attachments/assets/ff14a376-8796-4a9b-8655-1c2e87035dfd)
 
-### 🔭Working on the release of a Android application to manage 🔭
-### mental health/sensory overload. Release month ---> June 2025🔭
-
-### Working on a Github contribution chart text displayer in Python (may 2025):
+### Github contribution chart text displayer in Python:
 Just to show funny image in, for example youre readme's.
 ![chart](https://github.com/user-attachments/assets/3a500827-740d-4635-9b3c-210ffd41168b)
 
