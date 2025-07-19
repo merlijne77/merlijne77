@@ -5,7 +5,8 @@
 <pre>
 💻 I am a self taught Software Developer 
 📝 Main Focus is on Desktop/Mobile applications
-  and building electronic circuits for fun
+  and building electronic circuits for fun...
+	Currently learning game development in Python (Pygame)
 🚩 Interested in Full Stack Machine Learning Application 
 development (On my bucketlist)
 	</pre>
@@ -42,6 +43,9 @@ Java|Python|Kotlin|Dart
 
 Flutter|MicroPython|Processing|Arduino
 
+### TOOLS
+
+Pycharm|Tiled|Android Studio|VS-Code
 
   </td>
   </tr>
