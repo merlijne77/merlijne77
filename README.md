@@ -73,8 +73,6 @@ Contains a dynamic picture depending on the weather and time of the day.
 
 ![Screenshot From 2025-03-06 12-33-33](https://github.com/user-attachments/assets/ff14a376-8796-4a9b-8655-1c2e87035dfd)
 
-<img width="866" height="556" alt="image" src="https://github.com/user-attachments/assets/d8a4941c-8d8f-49e4-b4ff-9a9450ade4b7" />
-
 
 
 ### Github contribution chart text displayer in Python:
