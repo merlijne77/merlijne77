@@ -3,10 +3,11 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=merlijne77&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <pre>
-💻 I am a self taught Software Developer 
+💻 I am a self taught Software Developer Living in the Netherlands
 📝 Main Focus is on Desktop/Mobile applications
-  and building electronic circuits for fun...
-	Currently learning game development in Python (Pygame)
+  and building electronic circuits for fun
+💻 Currently building a web (streamlit) application in pure Python,
+   Taking doing the Python career Track on Datacamp and studying Descrete Mathematics on Coursera
 🚩 Interested in Full Stack Machine Learning Application 
 development (On my bucketlist)
 	</pre>
