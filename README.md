@@ -7,7 +7,7 @@
 📝 Main Focus is on Desktop/Mobile applications
   and building electronic circuits for fun
 💻 Currently building a web (streamlit) application in pure Python,
-   Taking doing the Python career Track on Datacamp and studying Descrete Mathematics on Coursera
+   Taking doing the Python career Track on Datacamp and studying Discrete Mathematics on Coursera
 🚩 Interested in Full Stack Machine Learning Application 
 development (On my bucketlist)
 	</pre>
