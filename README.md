@@ -18,6 +18,7 @@ development (On my bucketlist)
 <pre>
 📚 The Nature of Code by Daniel Shiffman 📚 
 📚 The pragmatic Programmer by Andy Hunt en Dave Thomas
+📚 The Secret life of programs Jonathan E. Steinhart
 📚 Vintage coding books!
 <hr>
 </pre>
