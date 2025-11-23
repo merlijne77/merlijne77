@@ -6,8 +6,7 @@
 💻 I am a self taught Software Developer Living in the Netherlands
 📝 Main Focus is on Desktop/Mobile applications
   and building electronic circuits for fun
-💻 Currently building a web (streamlit) application in pure Python,
-   Taking doing the Python career Track on Datacamp and studying Discrete Mathematics on Coursera
+💻 Currently building a web (streamlit) application in pure Python 
 🚩 Interested in Full Stack Machine Learning Application 
 development (On my bucketlist)
 	</pre>
