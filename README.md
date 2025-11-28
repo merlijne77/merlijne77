@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=A70808&width=490&lines=Hi+I+am+Heidi+;Enthusiastic+hobby+dev" alt="Typing SVG" /></a>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=merlijne77&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=merlijne77&repo=github-visitors-badge&countColor=%237B1E7A) 
+![](https://www.codewars.com/users/Merlijne/badges/small)
 
 <pre>
 💻 I am a self taught Software Developer Living in the Netherlands
